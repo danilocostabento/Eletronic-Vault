@@ -44,9 +44,10 @@ O projeto inclui um **gabinete customizado impresso em 3D** e diversas funcional
 ├── src/
 │ └── cofre.ino # Código completo do Arduino
 ├── docs/
-│ ├── esquema-eletrico.png # Esquema de ligação (Tinkercad)
-│ ├── montagem-3d.png # Modelo da caixa 3D
+│ ├── esquema-eletrico.pdf # Esquema de ligação (Tinkercad)
+│ ├── montagem-3d.jpg # Modelo da caixa 3D
 │ └── fluxograma.png # Fluxograma do sistema
+├── LICENSE
 └── README.md
 ```
 
